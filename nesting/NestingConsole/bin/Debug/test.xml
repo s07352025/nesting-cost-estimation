@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+
+<root>
+	<polygon fill="none" stroke="#010101" stroke-miterlimit="10" points="600,600 600,660 620,660 620,630 630,630 630,640 635,640 635,630 680,630 680,600 "/>
+	<polygon fill="none" stroke="#010101" stroke-miterlimit="10" points="620,600 600,660 620,660 620,630 630,630 630,640 635,640 635,630 680,630 680,600 "/>
+	<polygon fill="none" stroke="#010101" stroke-miterlimit="10" points="620,600 600,660 620,660 620,630 630,630 630,640 635,640 635,630 680,630 680,600 "/>
+	<polygon fill="none" stroke="#010101" stroke-miterlimit="10" points=" 150,100 100,200 200,200 "/>
+	<polygon fill="none" stroke="#010101" stroke-miterlimit="10" points=" 150,100 100,200 200,200 "/>
+
+	<polygon fill="none" stroke="#010101" stroke-miterlimit="10" points=" 10,10 10,40 35,40 35,80 60,80 60,40 80,40 80,10 65,10 65,0 25,0 0,10 "/>
+	<polygon fill="none" stroke="#010101" stroke-miterlimit="10" points=" 10,10 10,40 35,40 35,80 60,80 60,40 80,40 80,10 65,10 65,0 25,0 25,10 "/>
+
+	<polygon fill="none" stroke="#010101" stroke-miterlimit="10" points="779,537 779,548 793,547 793,538 "/>
+    <polygon fill="none" stroke="#010101" stroke-miterlimit="10" points="779,537 779,548 793,547 793,538 "/>
+    <polygon fill="none" stroke="#010101" stroke-miterlimit="10" points="901,537 894,528 896,517 906,512 917,517 919,528 912,537 "/>
+    <polygon fill="none" stroke="#010101" stroke-miterlimit="10" points="836,410 827,456 894,463 910,434 "/>
+    <polygon fill="none" stroke="#010101" stroke-miterlimit="10" points="676,605 668,606 662,600 665,591 674,590 679,596 "/>
+    <rect x="21" y="439" width="30" height="18" fill="none" stroke="#010101"/>
+    <rect x="106" y="452" width="29" height="5" fill="none" stroke="#010101"/>
+	
+    
+	<polygon fill="none" stroke="#010101" stroke-miterlimit="10" points="1078,402 1078,413 1090,413 1091,403 "/>
+    <polygon fill="none" stroke="#010101" stroke-miterlimit="10" points="1104,438 1096,440 1090,433 1093,425 1102,423 1107,430 "/>
+    <polygon fill="none" stroke="#010101" stroke-miterlimit="10" points="998,456 999,462 980,463 980,445 "/>
+    <polygon fill="none" stroke="#010101" stroke-miterlimit="10" points="1000,425 1000,436 1014,436 1014,426 "/>
+    <polygon fill="none" stroke="#010101" stroke-miterlimit="10" points="1027,461 1019,463 1013,456 1016,448 1025,447 1030,453 "/>
+    
+    <polygon fill="none" stroke="#010101" stroke-miterlimit="10" points="1057,602 1049,604 1043,597 1046,589 1055,588 1060,594 "/>
+    <rect x="402" y="437" width="30" height="18" fill="none" stroke="#010101" />
+    <rect x="487" y="450" width="29" height="5" fill="none" stroke="#010101" />
+    <rect x="565" y="691" width="25" height="17" fill="none" stroke="#010101" />
+    
+    
+    <polygon fill="none" stroke="#010101" stroke-miterlimit="10" points="978,280 995,252 1011,280 "/>
+    
+    <polygon fill="none" stroke="#010101" stroke-miterlimit="10" points="1120,289 1113,280 1116,269 1126,264 1136,269 1139,280 1132,289 "/>
+    <polygon fill="none" stroke="#010101" stroke-miterlimit="10" points="1056,161 1047,207 1113,214 1129,185 "/>
+   
+    <rect x="1071" y="618" width="47" height="25" fill="none" stroke="#010101" />
+    <polygon fill="none" stroke="#010101"  points="843,707 824,739 878,742 917,724 867,727 864,705 "/>
+    <polygon fill="none" stroke="#010101"  points="928,687 956,715 1081,708 1003,683 960,664 "/>
+    
+</root>
